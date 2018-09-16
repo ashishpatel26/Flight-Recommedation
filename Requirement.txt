@@ -1,0 +1,7 @@
+Dataset:
+The data contains Air Travel bookings for domestic travel within United States. 
+
+Objective:
+1. Predict a Price Range for Tickets based on the Origin Destination Combination for top 5 routes which have highest number of travel bookings.
+2. An Optimal Price Range should be recommended for each travel month for each of the 5 routes.
+3. Recommend Rules to be set in Travel Booking Portal , so that alerts can be configured when tickets exceeding range are booked.
